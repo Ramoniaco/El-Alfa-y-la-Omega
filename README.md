@@ -1,2 +1,2 @@
 # El-Alfa-y-la-Omega
-www.alfayomega.pe
+https://www.alfayomega.pe/classic/detallerollo.php?id=1&pagina=1
